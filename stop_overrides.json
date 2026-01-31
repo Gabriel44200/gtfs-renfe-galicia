@@ -58,6 +58,11 @@
     "stop_name": "Viana do Castelo"
   },
   {
+    "stop_id": "22308",
+    "stop_lat": 42.23930,
+    "stop_lon": -8.71226
+  },
+  {
     "stop_id": "22402",
     "stop_name": "Valença do Minho"
   },
